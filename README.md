@@ -1,7 +1,7 @@
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/TPlatts04/Job-Application-Form">
 
 # Code Description
-In this code that is uploaded into this repo, there is basic knowledge of HTML5 and CSS3. This code was written in these languages as they are suitable fror the design needed and funcitonality. There is no JS as of yet as i will be learning that soon.
+In this code that is uploaded into this repo, there is basic knowledge of HTML5 and CSS3. This code was written in these languages as they are suitable for the design needed and functionality. There is no JS as of yet as i will be learning that soon.
 This code is a basic form which takes in the user's credentials and also allows them to select a file for their CV.
 All code is available in the Job-Application-Form-Page folder.
 ** THIS IS A FAKE JOB APPLICATION WEBSITE, ONLY USED AS A PROJECT**.
