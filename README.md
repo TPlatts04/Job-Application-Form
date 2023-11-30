@@ -1,4 +1,4 @@
-https://img.shields.io/github/languages/code-size/TPlatts04/Job-Application-Form
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/TPlatts04/Job-Application-Form">
 
 # Code Description
 In this code that is uploaded into this repo, there is basic knowledge of HTML5 and CSS3. This code was written in these languages as they are suitable fror the design needed and funcitonality. There is no JS as of yet as i will be learning that soon.
